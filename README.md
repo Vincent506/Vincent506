@@ -3,7 +3,6 @@
 
 
 ![Vicente Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincent506&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent506)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
