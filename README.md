@@ -1,16 +1,20 @@
-## Hi there 👋
+### Ola! Eu sou o Vicente Neto 👋
 
-<!--
-**Vincent506/Vincent506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Vicente Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincent506&show_icons=true&theme=tokyonight)
+
+## Tecnologias que uso no meu dia
+
+<div style = "display: inline_block"><br/>
+<img align="center" alt = "C/C++" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" >
+<img align="center" alt = "C++" src = "   https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
+<img align="center" alt = "Python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" >
+<img align="center" alt = "Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
+<img align="center" alt = "Ubuntu" src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " >
+
+</div><br/>
+
+### Estudante de Bacharelado em Ciência da Computação construindo conhecimento e tecnologias.
+
+    
