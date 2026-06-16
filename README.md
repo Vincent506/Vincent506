@@ -1,6 +1,15 @@
 ### Ola! Eu sou o Vicente Neto 👋
 
+## Meus Status
 
+[![GitHub Streak](https://github-readme-streak-stats-beta-seven.vercel.app?user=Vincent506&theme=synthwave&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
+
+---
+
+![Vincent506's GitHub stats](https://github-readme-stats-pi-nine-49.vercel.app/api?username=Vincent506&show_icons=true&theme=synthwave&locale=pt-br&cache_seconds=86400&v=1&include_all_commits=true)
+
+---
+![Top Langs](https://github-readme-stats-pi-nine-49.vercel.app/api/top-langs/?username=Vincent506&theme=synthwave&locale=pt-br&cache_seconds=86400&hide_forks=true&exclude_repo=github-readme-streak-stats,github-readme-stats,OpenGl&v=2)
 
 ## Tecnologias que uso no meu dia
 
